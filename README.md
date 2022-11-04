@@ -10,3 +10,5 @@ This repository contains a jupyter notebook where a concise procedure of how the
 This event is one that has taken a toll in history with a large number of viewers. Hey... With such a large audience you just might be shocked at how fascinating the game is.
 
 Analyzing the rate at which one is charged to have airtime at this period is something one can take into consideration. And hey there is a place for analyzing the artist that came to perform too.
+
+This information entails the artist that performed most during halftime from the top to the least number of appearances for the top 10 appearances
