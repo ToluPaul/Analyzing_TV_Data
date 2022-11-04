@@ -7,3 +7,4 @@ It is a different thing for the producers, advertisers and marketing teams. Know
 This repository contains a jupyter notebook where a concise procedure of how the data was cleaned and analyzed was done
 
 ## THE SUPER BOWL
+This event is one that has taken a toll in history with a large number of viewers. Hey... With such a large audience you just might be shocked at how fascinating the game is.
