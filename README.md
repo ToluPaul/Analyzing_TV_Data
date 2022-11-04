@@ -12,3 +12,6 @@ This event is one that has taken a toll in history with a large number of viewer
 Analyzing the rate at which one is charged to have airtime at this period is something one can take into consideration. And hey there is a place for analyzing the artist that came to perform too.
 
 This information entails the artist that performed most during halftime from the top to the least number of appearances for the top 10 appearances
+
+### Who will Win
+Before you move on to watch the next match let us find out who has the tendecy to win...
